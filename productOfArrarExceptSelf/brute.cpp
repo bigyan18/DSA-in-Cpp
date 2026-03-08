@@ -2,7 +2,6 @@
 #include<vector>
 using namespace std;
 int main(){
-    int pr=1;
     vector<int> arr={1,2,3,4};
     vector<int> narr;
     for(int i=0;i<arr.size();i++){
