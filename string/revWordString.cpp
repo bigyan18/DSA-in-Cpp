@@ -22,6 +22,6 @@ string reverseWord(string s){
 }
 
 int main(){
-    string s="kak    dela     man     ????    ";
+    string s="kak dela  man ???? ";
     cout<<reverseWord(s);
 }
